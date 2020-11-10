@@ -9,5 +9,6 @@
 **Link to work:**
 
 [PracticePython](https://www.practicepython.org/)
+
 [How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-python)
 
