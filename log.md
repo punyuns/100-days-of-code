@@ -21,3 +21,15 @@
 **Link to work:**
 
 [How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-python)
+
+### Day 2: November 11th, 2020
+
+**Today's Progress**: Added !weather command to Discord bot. Learned about Python JSON parsing and accessing nested dictionaries.
+
+**Thoughts:** My excitement was through the roof when I was able to get my !weather command working for the Discord bot. I still have some things I'd like to add. I'd also like to make a separate Python file for most, if not all, of the OpenWeatherMap API that's used in the weather command. 
+
+**Link to work:**
+
+[How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-python)
+[Parsing JSON Data](https://www.programiz.com/python-programming/json)
+[OpenWeatherMap(https://openweathermap.org/)
