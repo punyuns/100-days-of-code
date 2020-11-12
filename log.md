@@ -31,5 +31,7 @@
 **Link to work:**
 
 [How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-python)
+
 [Parsing JSON Data](https://www.programiz.com/python-programming/json)
-[OpenWeatherMap(https://openweathermap.org/)
+
+[OpenWeatherMap](https://openweathermap.org/)
