@@ -35,3 +35,17 @@
 [Parsing JSON Data](https://www.programiz.com/python-programming/json)
 
 [OpenWeatherMap](https://openweathermap.org/)
+
+### Day 3: November 12th, 2020
+
+**Today's Progress**: Cleaning up code, seperating OpenWeatherMap API and SmartyStreets API into different Python files for cleanliness,
+
+**Thoughts:** I haven't implemented anything particularly new to the Discord bot today. The !weather {postal_code} takes in the postal code instead of a city now. This provides more accuracy, but the command is now only limited to the US. The command will now display the current weather conditions (snow, rain, thunder, etc.) instead of just cloudiness levels. Moving things into a seperate Python file helps a lot with readability. Rather than using the pyowm library, I have decided to use the JSON data parsed from the API. I've also used SmartyStreets for location purposes.
+
+**Link to work:**
+
+[Parsing JSON Data](https://www.programiz.com/python-programming/json)
+
+[OpenWeatherMap](https://openweathermap.org/)
+
+[SmartyStreets API](https://smartystreets.com/docs/cloud/us-zipcode-api)
