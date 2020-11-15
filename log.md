@@ -38,7 +38,7 @@
 
 ### Day 3: November 12th, 2020
 
-**Today's Progress**: Cleaning up code, seperating OpenWeatherMap API and SmartyStreets API into different Python files for cleanliness,
+**Today's Progress**: Cleaning up code, seperating OpenWeatherMap API and SmartyStreets API into different Python files for cleanliness.
 
 **Thoughts:** I haven't implemented anything particularly new to the Discord bot today. The !weather {postal_code} takes in the postal code instead of a city now. This provides more accuracy, but the command is now only limited to the US. The command will now display the current weather conditions (snow, rain, thunder, etc.) instead of just cloudiness levels. Moving things into a seperate Python file helps a lot with readability. Rather than using the pyowm library, I have decided to use the JSON data parsed from the API. I've also used SmartyStreets for location purposes.
 
@@ -49,3 +49,27 @@
 [OpenWeatherMap](https://openweathermap.org/)
 
 [SmartyStreets API](https://smartystreets.com/docs/cloud/us-zipcode-api)
+
+### Day 4: November 13th, 2020
+
+**Today's Progress**: Cleaned up some more code in my Discord bot, made the output of the !weather command cleaner.
+
+**Thoughts:** I got started a little late on my Discord bot today because of some schoolwork, but I managed to clean up most of the code and added wind and humidity info for my !weather {zipcode} command. Once I’m satisfied, I’ll be taking a look at playing music with the bot!
+
+**Link to work:**
+
+[OpenWeatherMap](https://openweathermap.org/)
+
+[SmartyStreets API](https://smartystreets.com/docs/cloud/us-zipcode-api)
+
+### Day 5: November 14th, 2020
+
+**Today's Progress**: Began algorithm practice on Hackerrank, looked at YouTube API for !play command with Discord bot
+
+**Thoughts:** I was watching William Lin on YouTube and saw his competitive programming videos, so I figured I'd try and give Hackerrank a shot since algorithms are really important in computer science and it could also help me develop some crucial skills as a developer. I'm also looking to add a !play {music} command to my Discord bot, so I've been exploring the YouTube API a bit.
+
+**Link to work:**
+
+[Hackerrank](https://www.hackerrank.com/)
+
+[YouTube API](https://developers.google.com/youtube/v3)
