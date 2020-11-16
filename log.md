@@ -73,3 +73,13 @@
 [Hackerrank](https://www.hackerrank.com/)
 
 [YouTube API](https://developers.google.com/youtube/v3)
+
+### Day 6: November 15th, 2020
+
+**Today's Progress**: More algorithm practice on Hackerrank.
+
+**Thoughts:** Today was a bit of a slower day since I had a lot of schoolwork to catch up and finish, so I just did an hour of algorithm problem solving on Hackerrank. Nothing too big, but it does make me feel more confident about my ability to use Python. I'm going to look into getting back into C++ in the next few days.
+
+**Link to work:**
+
+[Hackerrank](https://www.hackerrank.com/)
